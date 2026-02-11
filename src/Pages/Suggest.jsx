@@ -12,6 +12,7 @@ import {
   ArrowRight,
   ShieldCheck,
   Loader2,
+  Stethoscope,
 } from "lucide-react";
 import askAi from "../Utils/AskAi";
 
